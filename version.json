@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.1.8",
-  "update_url": "https://techflarenow.com/gnsu/download",
-  "update_description": "New features:\n- 1. Improve overall performance\n- 2. Fixes some bugs.",
-  "released_date": "08-03-2025"
+  "latest_version": "2.1.9",
+  "update_url": "https://raw.githubusercontent.com/apk02211/update-apk/main/gnsu_v2.1.9.apk",
+  "update_description": "New features:\n- 1. Fixes some bugs.",
+  "released_date": "27-08-2025"
 }
