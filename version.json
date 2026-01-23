@@ -1,6 +1,6 @@
 {
-  "latest_version": "3.1.10",
-  "update_url": "https://raw.githubusercontent.com/apk02211/update-apk/main/gnsu_student_v3.1.11.apk",
-  "update_description": "New features:\n- 1. UI Update",
-  "released_date": "15-01-2026"
+  "latest_version": "4.1.10",
+  "update_url": "https://raw.githubusercontent.com/apk02211/update-apk/main/gnsu_student_v4.1.10.apk",
+  "update_description": "New features:\n- 1. UI Update\n 2. Improve Logging System\n 3. RealTime Attendance Alert \n 4. Email Notification Coming Soon..",
+  "released_date": "24-01-2026"
 }
