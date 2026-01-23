@@ -1,6 +1,6 @@
 {
   "latest_version": "4.1.10",
   "update_url": "https://raw.githubusercontent.com/apk02211/update-apk/main/gnsu_student_v4.1.10.apk",
-  "update_description": "New features:\n- 1. Improve Login Behaviour.\n 2. Attendance Alert Features.\n 3. Fix Bugs & Improve Overall Performance.",
+  "update_description": "New features:\n- 1. Improve Login Behaviour.\n- 2. Attendance Alert Features.\n- 3. Fix Bugs & Improve Overall Performance.",
   "released_date": "24-01-2026"
 }
