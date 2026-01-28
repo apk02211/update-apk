@@ -1,7 +1,8 @@
 {
-  "latest_version": "4.2.11",
-  "update_url": "https://raw.githubusercontent.com/apk02211/update-apk/main/gnsu_student_v4.2.11.apk",
-  "update_description": "New features:\n- 1. UI Update\n 2. Improve Logging System\n 3. RealTime Attendance Alert \n 4. Caching System",
-  "released_date": "27-01-2026"
+  "latest_version": "4.2.12",
+  "update_url": "https://raw.githubusercontent.com/apk02211/update-apk/main/gnsu_student_v4.2.12.apk",
+  "update_description": "New features:\n- 1. UI Update\n- 2. Fixes Bugs",
+  "released_date": "28-01-2026"
 }
+
 
