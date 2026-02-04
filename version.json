@@ -1,9 +1,10 @@
 {
   "latest_version": "5.2.12",
-  "update_url": "https://raw.githubusercontent.com/apk02211/update-apk/main/gnsu_student_v5.2.12apk",
+  "update_url": "https://raw.githubusercontent.com/apk02211/update-apk/main/gnsu_student_v5.2.12.apk",
   "update_description": "New features:\n- 1. Added UCanApply Portal: You can download and print your results & documents\n- 2. Download Management: You can download pdf and files from this web pages\n- 3. Cache Management: For loading content faster\n- 4. Overall fixes UI and Bugs",
   "released_date": "05-02-2026"
 }
+
 
 
 
